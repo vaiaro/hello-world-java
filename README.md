@@ -42,3 +42,5 @@ The example done from Git
 
 #04/05 Batch
 #second trigger on todays batch
+
+#30/05 Git Triggered.
